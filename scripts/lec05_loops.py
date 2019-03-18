@@ -13,12 +13,12 @@ print("This is the end of Question 1 \n Question 2 begins here")
 #repeat that the loop will skip printing x = 5 to the console but will print values of x from 6 to 10.
 
 x = 0
-while x <= 10 :
-    print(x)
+print(x)
+while x < 10 :
     x+=1
     if x==5 :
-        print("We skip this")
-        x+=1
+        continue
+    print(x)
 
 #question3
 #for loop that prints values from 4 to 10 to the console.
