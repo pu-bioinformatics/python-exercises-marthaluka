@@ -8,3 +8,11 @@ For each of the exercises in in the Jupyter Notebooks, you are required to creat
 
 
 Work through all the exercises to notebook 6
+
+# Martha Luka
+
+Martha has modified the repo to include scripts which answer exercises in lectures 1-6. 
+All scripts were generated and tried on python 3.
+
+
+
