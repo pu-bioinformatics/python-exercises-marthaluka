@@ -1,4 +1,4 @@
-#!/Users/user/miniconda2/envs/py3k/bin/python
+#!/Users/user/miniconda2/envs/py3k/bin/python #CK: This is secific to your system
 
 #Giving the amino acid sequence
 aa='MNKMDLVADVAEKTDLSKAKATEVIDAVFA'

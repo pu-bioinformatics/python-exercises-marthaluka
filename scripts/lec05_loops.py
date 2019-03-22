@@ -16,7 +16,7 @@ x = 0
 print(x)
 while x < 10 :
     x+=1
-    if x==5 :
+    if x==5 :  #CK: Simply chck if x is ne 5, then print 
         continue
     print(x)
 
