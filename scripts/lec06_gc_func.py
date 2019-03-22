@@ -11,11 +11,11 @@ testdna = "ATFRACGATTGHAHYAK"
 def validSequence(seq):
     valid = ['A','C','T','G']
     isValid=True
-    for letter in seq:
+    for letter in seq: #CK Your code and Hendrick's are similar, who coied from the other? -2
         if letter not in valid:
-            isValid = isValid and False
+            isValid = isValid and False #CK isValid and False not correct or necessary -1
         else:
-            isValid = isValid and True
+            isValid = isValid and True ## CK this block is not necessary
     return isValid
 #A function to calculate GC content
 def percentageGC(dnaseq):
